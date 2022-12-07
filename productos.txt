@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "DFSC",
+    "descripcion": "Deep Foundation Settlement Calculation",
+    "foto": "url4",
+    "precio": 521.25,
+    "stock": 14,
+    "id": 1,
+    "timestamp": 1670444725801,
+    "codigo": "9b649ed1-044f-4c24-acfa-982dbf1e6904"
+  },
+  {
+    "nombre": "SFBC",
+    "descripcion": "Shallow Foundation Bearing Capacity",
+    "foto": "url2",
+    "precio": 456.21,
+    "stock": 16,
+    "id": 2,
+    "timestamp": 1670444825191,
+    "codigo": "57288476-f64c-4540-abba-5202baf722c3"
+  },
+  {
+    "nombre": "SFSC",
+    "descripcion": "Shallow Foundation Settlement Calculation",
+    "foto": "url3",
+    "precio": 822.26,
+    "stock": 19,
+    "id": 3,
+    "timestamp": 1670444853947,
+    "codigo": "a32b469d-5784-4367-ace0-4a8180112b6e"
+  }
+]
